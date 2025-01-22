@@ -59,7 +59,7 @@
   
   "playUrl": "https://tv.gboku.com/vodplay/{playUrl}.html",
   "playUa": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-  "playReferer": "https://6tm.wdubo.com/",
+  "playReferer": "https://tv.gboku.com/",
   "searchUrl": "https://tv.gboku.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
