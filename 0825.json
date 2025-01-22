@@ -77,7 +77,7 @@
 {"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
 {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
 {"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":1},
-{"key": "獨播","name": "獨播","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 0,"ext": "./json/duboku.json$$$socks5://127.0.0.1:10172"},
+{"key": "獨播","name": "獨播","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 0,"ext": "./json/duboku.json"},
 
 {"key":"Wogg","name":"玩偶","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./json/wogg.json$$$WOGG"},
 {"key":"Wobg","name":"表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./json/wogg.json$$$WOBG"},
